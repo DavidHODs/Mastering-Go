@@ -27,8 +27,7 @@ func Writer() {
 
 // Reading from standard input
 func Reader() {
-	var f *os.File
-	f = os.Stdin
+	var f *os.File = os.Stdin
 	defer f.Close()
 
 	scanner := bufio.NewScanner(f)
