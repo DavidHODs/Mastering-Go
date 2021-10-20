@@ -1,0 +1,10 @@
+customLogLineNumber 2021/10/19 21:51:56 Hello There!
+customLogLineNumber 2021/10/19 21:51:56 Another Log Entry
+customLogLineNumber 2021/10/19 21:56:24 Hello There!
+customLogLineNumber 2021/10/19 21:56:24 Another Log Entry
+customLogLineNumber 2021/10/19 21:59:43 Hello There Again!
+customLogLineNumber 2021/10/19 21:59:43 Another Log Entry
+customLogLineNumber 2021/10/19 22:03:29 Hello There AgainIIII!
+customLogLineNumber 2021/10/19 22:03:29 Another Log Entry
+customLogLineNumber 2021/10/19 22:09:10 customLog.go:25: Hello There AgainIIII!
+customLogLineNumber 2021/10/19 22:09:10 customLog.go:26: Another Log Entry
