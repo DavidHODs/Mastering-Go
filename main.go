@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/DavidHODs/Mastering-Go/chaptertwo"
+	"github.com/DavidHODs/Mastering-Go/chapterthree"
 )
 
 func main() {
@@ -21,5 +21,9 @@ func main() {
 	// chaptertwo.Map()
 	// chaptertwo.Split()
 	// chaptertwo.Defer()
-	chaptertwo.Version()
+	// chaptertwo.Version()
+
+	// chapter three
+
+	chapterthree.Loop()
 }
