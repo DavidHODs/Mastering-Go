@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/DavidHODs/Mastering-Go/chapterthree"
+	"github.com/DavidHODs/Mastering-Go/chapterfour"
 )
 
 func main() {
@@ -25,5 +25,14 @@ func main() {
 
 	// chapter three
 
-	chapterthree.Loop()
+	// chapterthree.Loop()
+
+	// chapter four 
+
+	// chapterfour.Struct()
+	// chapterfour.Switch()
+	// chapterfour.ReadJson()
+	// chapterfour.SaveJSON()
+	// chapterfour.Marshal()
+	chapterfour.Parse()
 }
