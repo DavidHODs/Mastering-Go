@@ -1,8 +1,6 @@
 package main
 
-import (
-	"github.com/DavidHODs/Mastering-Go/chapterfive"
-)
+import "github.com/DavidHODs/Mastering-Go/chapternine"
 
 func main() {
 	// chapter one
@@ -27,7 +25,7 @@ func main() {
 
 	// chapterthree.Loop()
 
-	// chapter four 
+	// chapter four
 
 	// chapterfour.Struct()
 	// chapterfour.Switch()
@@ -36,9 +34,19 @@ func main() {
 	// chapterfour.Marshal()
 	// chapterfour.Parse()
 
-	// chapter five 
+	// chapter five
 
 	// chapterfive.Random()
 	// chapterfive.Randoms()
-	chapterfive.Crypto()
+	// chapterfive.Crypto()
+
+	// chapter six
+
+	// chaptersix.Variadic()
+
+	// chapter nine
+
+	// chapternine.Channel()
+	// chapternine.Chan()
+	chapternine.Pipeline()
 }
