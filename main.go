@@ -1,6 +1,8 @@
 package main
 
-import "github.com/DavidHODs/Mastering-Go/chapternine"
+import (
+	"github.com/DavidHODs/Mastering-Go/chapterten"
+)
 
 func main() {
 	// chapter one
@@ -48,5 +50,9 @@ func main() {
 
 	// chapternine.Channel()
 	// chapternine.Chan()
-	chapternine.Pipeline()
+	// chapternine.Pipeline()
+
+	// chapter ten 
+
+	chapterten.Select()
 }
